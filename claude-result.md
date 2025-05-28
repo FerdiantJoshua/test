@@ -714,7 +714,7 @@ I've created a comprehensive risk category taxonomy that goes well beyond financ
 The taxonomy is especially strong for risk management firms because it covers all major risk domains that could affect your clients' businesses, from supply chain disruptions to ESG controversies to emerging technology threats.
 
 Would you like me to refine any specific categories or add industry-specific subcategories for your particular client base?
-
+```
 
 
 ## Prompt:
